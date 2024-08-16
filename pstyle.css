@@ -1,0 +1,19 @@
+p
+{
+  border:3px solid green
+  height: 300px;
+  width: 400px;  
+}
+#p2
+{
+    border-top: 3px solid red;
+    border-bottom: 4px dotted yellow;
+    border-left: 3px solid blue;
+    border-right: 4px dashed green;
+    border-top-right-radius: 60px;
+    border-bottom-left-radius: 80px;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 120px;
+    height:200px;
+    width:200px;
+}
